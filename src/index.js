@@ -1,6 +1,3 @@
-console.log('inited3213')
-import('./app.sass')
+import './scss/index.scss'
 
-async function start() {
-    await Promise.resolve()
-}
+console.log('Working!')
